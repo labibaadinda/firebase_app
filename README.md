@@ -1,7 +1,6 @@
-```markdown
 # Firebase App
 
-This project is a starting point for a Flutter application integrated with Firebase.
+Project ini untuk memenuhi penugasan Tugas Besar Pengembangan Berbasis Platform
 
 ## Features
 
